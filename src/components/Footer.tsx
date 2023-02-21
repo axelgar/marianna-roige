@@ -1,5 +1,6 @@
 const navigation = {
   main: [
+    { name: "", href: "" },
     // { name: "Ioga i discapacitat", href: "#ioga-discapacitat" },
     // { name: "Mindfulness a l'Aula-MEM", href: "#mindfulness" },
   ],
