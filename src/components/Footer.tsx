@@ -1,7 +1,7 @@
 const navigation = {
   main: [
-    { name: "Ioga i discapacitat", href: "#ioga-discapacitat" },
-    { name: "Mindfulness a l'Aula-MEM", href: "#mindfulness" },
+    // { name: "Ioga i discapacitat", href: "#ioga-discapacitat" },
+    // { name: "Mindfulness a l'Aula-MEM", href: "#mindfulness" },
   ],
   social: [
     {

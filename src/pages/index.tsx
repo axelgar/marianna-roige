@@ -10,16 +10,10 @@ const inter = Inter({ subsets: ["latin"] });
 export default function Home() {
   return (
     <>
-      <Head>
-        <title>Marianna Roige Yoga</title>
-        <meta name="description" content="Formación de Yoga" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/logo.png" />
-      </Head>
       <main>
         <HeroSection />
-        <IgoaDiscapacitatSection />
-        <MindfulnessSection />
+        {/* <IgoaDiscapacitatSection />
+        <MindfulnessSection /> */}
         <Footer />
       </main>
     </>
