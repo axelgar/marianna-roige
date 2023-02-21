@@ -17,7 +17,7 @@ export default function HeroSection() {
           <div className="relative py-32 px-6 sm:py-40 lg:py-56 lg:px-8 lg:pr-0">
             <div className="mx-auto max-w-2xl lg:mx-0 lg:max-w-xl">
               <h1 className="text-4xl font-bold tracking-tight text-amber-400 sm:text-6xl flex items-center">
-                CALMA <span className="text-xl ml-6">Marianna Roige</span>
+                CALMA <span className="text-xl ml-6">Marianna Roigé</span>
               </h1>
               <p className="mt-6 text-lg leading-8 text-amber-400">Yoga&amp;Meditació / Mindfulness / Educació</p>
               <div className="mt-10 prose prose-lg prose-indigo mx-auto text-gray-500">
