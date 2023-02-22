@@ -4,7 +4,7 @@ import { Header } from "@/components/Heder";
 const QuiSoc = () => {
   return (
     <>
-      <Header />;
+      <Header />
       <div className="relative overflow-hidden bg-white py-16">
         <div className="relative px-6 lg:px-8">
           <div className="mx-auto max-w-prose text-lg">
