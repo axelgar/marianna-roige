@@ -9,7 +9,7 @@ const QuiSoc = () => {
         <div className="relative px-6 lg:px-8">
           <div className="mx-auto max-w-prose text-lg">
             <h1>
-              <span className="mt-2 block text-center text-3xl font-bold leading-8 tracking-tight text-amber-400 sm:text-4xl">
+              <span className="mt-2 block text-center text-3xl font-bold leading-8 tracking-tight text-violet-400 sm:text-4xl">
                 Qui sóc
               </span>
             </h1>

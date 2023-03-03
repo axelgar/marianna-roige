@@ -18,7 +18,7 @@ export const Header = () => {
         <div className="flex lg:flex-1">
           <Link href="/" className="-m-1.5 p-1.5">
             <span className="sr-only">Your Company</span>
-            <img className="h-8" src="logo.png" alt="" />
+            <img className="h-8" src="test-logo.png" alt="" />
           </Link>
         </div>
         <div className="flex lg:hidden">
@@ -45,7 +45,7 @@ export const Header = () => {
           <div className="flex items-center justify-between">
             <a href="#" className="-m-1.5 p-1.5">
               <span className="sr-only">Your Company</span>
-              <img className="h-8" src="logo.png" alt="" />
+              <img className="h-8" src="test-logo.png" alt="" />
             </a>
             <button
               type="button"
