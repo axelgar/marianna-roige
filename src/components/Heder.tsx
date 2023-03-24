@@ -4,9 +4,13 @@ import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/outline";
 import Link from "next/link";
 
 const navigation = [
-  { name: "Qui sóc", href: "#" },
-  // { name: "Kundalini", href: "#" },
-  // { name: "Discapacitat", href: "#" },
+  { name: "Qui sóc", href: "/qui-soc" },
+  { name: "Yoga Kundalini", href: "#" },
+  { name: "Formacions", href: "#" },
+  { name: "Formació per escoles", href: "#" },
+  { name: "Viatges", href: "#" },
+  { name: "Articles", href: "#" },
+  { name: "Contacte", href: "#" },
 ];
 
 export const Header = () => {
@@ -18,7 +22,7 @@ export const Header = () => {
         <div className="flex lg:flex-1">
           <Link href="/" className="-m-1.5 p-1.5">
             <span className="sr-only">Your Company</span>
-            <img className="h-8" src="test-logo.png" alt="" />
+            <img className="h-16" src="test-logo.png" alt="" />
           </Link>
         </div>
         <div className="flex lg:hidden">
@@ -33,7 +37,7 @@ export const Header = () => {
         </div>
         <div className="hidden lg:flex lg:gap-x-12">
           {navigation.map((item) => (
-            <a key={item.name} href={item.href} className="text-sm font-semibold leading-6 text-gray-900">
+            <a key={item.name} href={item.href} className="text-base font-semibold leading-6 text-gray-500">
               {item.name}
             </a>
           ))}
@@ -63,7 +67,7 @@ export const Header = () => {
                   <a
                     key={item.name}
                     href={item.href}
-                    className="-mx-3 block rounded-lg py-2 px-3 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-400/10"
+                    className="-mx-3 block rounded-lg py-2 px-3 text-base font-semibold leading-7 text-gray-500 hover:bg-gray-400/10"
                   >
                     {item.name}
                   </a>

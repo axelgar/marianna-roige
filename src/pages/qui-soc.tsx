@@ -14,7 +14,7 @@ const QuiSoc = () => {
               </span>
             </h1>
           </div>
-          <div className="prose prose-lg prose-indigo mx-auto mt-6 text-gray-500">
+          <div className="prose max-w-4xl prose-lg prose-indigo mx-auto mt-6 text-gray-500">
             <p>
               Paral.lelament al meu pas per la Universitat on vaig estudiar Psicologia i vaig descobrir l’Antropologia,
               em vaig endinsar en el món de la dansa contemporània on trobaria la meva primera gran vocació. La dansa
@@ -24,9 +24,11 @@ const QuiSoc = () => {
 
             <p>
               Al mateix temps i quasi bé com a condició sine qua non vaig iniciar una tasca pedagògica que sovint
-              acompanya la professió de la dansa. Donava classes a diferents col.lectius: infants, educadores,
-              estudiants, aspirants i professionals de la dansa...i també a persones que arribaven cercant consciència
-              corporal, moviment orgànic, benestar.
+              acompanya la professió de la dansa.
+            </p>
+            <p>
+              Donava classes a diferents col.lectius: infants, educadores, estudiants, aspirants i professionals de la
+              dansa...i també a persones que arribaven cercant consciència corporal, moviment orgànic, benestar.
             </p>
 
             <p>
@@ -37,18 +39,23 @@ const QuiSoc = () => {
 
             <p>
               Més tard, ja sent mare, li vaig donar un tomb a la meva professió i em vaig formar en la disciplina del
-              Yoga Kundalini, del Yoga per l’embaraç, del Yoga per infants, del Yoga adaptat,...Transformava i integrava
-              el meu coneixement del cos i de l’ànima des de la dansa, cap a l’horitzó espiritual i saludable que
-              proposa el Yoga. Aquesta nova direcció la desenvolupo en dues vies diferents; Per un cantó, vaig crear un
-              mètode per a dur el Yoga i la meditació a les escoles, com a eina beneficiosa tant per mestres com per
-              alumnes. D’aquesta trajectòria va néixer un llibre que vaig escriure a quatre mans amb una estimada
-              companya (Taller de Yoga para niños. Alba editorial, 2018).
+              Ioga Kundalini, del Ioga per l’embaraç, del Ioga per infants, del Ioga adaptat,...
+            </p>
+            <p>
+              Transformava i integrava el meu coneixement del cos i de l’ànima des de la dansa, cap a l’horitzó
+              espiritual i saludable que proposa el Ioga.
+            </p>
+            <p>
+              Aquesta nova direcció la desenvolupo en dues vies diferents; Per un cantó, vaig crear un mètode per a dur
+              el Ioga i la meditació a les escoles, com a eina beneficiosa tant per mestres com per alumnes. D’aquesta
+              trajectòria va néixer un llibre que vaig escriure a quatre mans amb l&apos;Ariadna Civil, també professora
+              de Ioga: Taller de Yoga para niños. Alba editorial, 2018. I que ara mateix ja va per la 3a edició!.
             </p>
             <figure>
               <img className="w-full rounded-lg" src="qui-soc-aigua.jpg" alt="" width={1310} height={873} />
             </figure>
             <p>
-              Per una altra banda, i sense deixar de la mà la riquesa dels ensenyaments del Yoga, em formo també en
+              Per una altra banda, i sense deixar de la mà la riquesa dels ensenyaments del Ioga, em formo també en
               Mindfulness (totes les referències són a les pàgines següents) a la Universitat de Barcelona. Sempre
               m’acompanya la idea d’entendre la vida com una integració d’aprenentatges i aprofundiments.
             </p>

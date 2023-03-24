@@ -4,7 +4,12 @@ import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/outline";
 
 const navigation = [
   { name: "Qui sóc", href: "/qui-soc" },
-  // { name: "Mindfulness a l'Aula-MEM", href: "#mindfulness" },
+  { name: "Yoga Kundalini", href: "#" },
+  { name: "Formacions", href: "#" },
+  { name: "Formació per escoles", href: "#" },
+  { name: "Viatges", href: "#" },
+  { name: "Articles", href: "#" },
+  { name: "Contacte", href: "#" },
 ];
 
 export const HomeHeader = () => {
@@ -15,7 +20,7 @@ export const HomeHeader = () => {
       <nav className="flex items-center justify-between sm:h-10 lg:justify-start" aria-label="Global">
         <a href="#" className="-m-1.5 p-1.5">
           <span className="sr-only">Marianna Roige</span>
-          <img alt="Marianna Roige" className="h-12 w-auto" src={"/test-logo.png"} />
+          <img alt="Marianna Roige" className="h-14 lg:h-20 w-auto" src={"/test-logo.png"} />
         </a>
         <button
           type="button"
@@ -27,7 +32,7 @@ export const HomeHeader = () => {
         </button>
         <div className="hidden lg:ml-12 lg:block lg:space-x-14">
           {navigation.map((item) => (
-            <a key={item.name} href={item.href} className="text-sm font-semibold leading-6 text-gray-900">
+            <a key={item.name} href={item.href} className="text-base font-semibold leading-6 text-gray-500">
               {item.name}
             </a>
           ))}
@@ -55,7 +60,7 @@ export const HomeHeader = () => {
                 onClick={() => setMobileMenuOpen(false)}
                 key={item.name}
                 href={item.href}
-                className="-mx-3 block rounded-lg py-2 px-3 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-400/10"
+                className="-mx-3 block rounded-lg py-2 px-3 text-base font-semibold leading-7 text-gray-500 hover:bg-gray-400/10"
               >
                 {item.name}
               </a>
