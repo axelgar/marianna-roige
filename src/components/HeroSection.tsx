@@ -9,11 +9,11 @@ export default function HeroSection() {
         </div>
       </div>
 
-      <div className="bg-gray-50 lg:max-w-7xl lg:mx-auto mt-16 overflow-hidden relative">
-        <img className="object-center rounded-lg lg:w-full" src="calma-ma.jpg" alt="" />
+      <div className="bg-gray-50 lg:max-w-7xl lg:mx-auto mt-16 overflow-hidden relative ">
+        <img className="object-cover lg:rounded-lg lg:w-full max-h-[600px]" src="calma-ma-2.jpg" alt="" />
         <div className="mx-auto max-w-7xl absolute z-10 top-0">
           <div className="relative z-10 lg:w-full lg:max-w-2xl">
-            <div className="relative py-32 px-6 sm:py-40 lg:px-8 lg:pr-0">
+            <div className="relative py-20 px-6 sm:py-40 lg:px-8 lg:pr-0">
               <div className="mx-auto max-w-2xl lg:mx-0 lg:max-w-xl">
                 <p className="text-2xl text-white ">Marianna Roigé</p>
                 <h1 className="text-4xl font-bold tracking-tight text-white sm:text-8xl flex items-center">CALMA</h1>

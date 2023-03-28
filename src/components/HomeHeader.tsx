@@ -1,16 +1,7 @@
 import { useState } from "react";
 import { Dialog } from "@headlessui/react";
 import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/outline";
-
-const navigation = [
-  { name: "Qui sóc", href: "/qui-soc" },
-  { name: "Yoga Kundalini", href: "#" },
-  { name: "Formacions", href: "#" },
-  { name: "Formació per escoles", href: "#" },
-  { name: "Viatges", href: "#" },
-  { name: "Articles", href: "#" },
-  { name: "Contacte", href: "#" },
-];
+import { navigation } from "@/utils";
 
 export const HomeHeader = () => {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
