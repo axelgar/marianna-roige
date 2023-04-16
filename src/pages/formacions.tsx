@@ -1,4 +1,3 @@
-import { CloudArrowUpIcon, LockClosedIcon, ServerIcon } from "@heroicons/react/20/solid";
 import Footer from "@/components/Footer";
 import { Header } from "@/components/Heder";
 

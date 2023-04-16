@@ -7,7 +7,7 @@ const navigation = {
   social: [
     {
       name: "Facebook",
-      href: "https://www.facebook.com/yogatoolsformacion",
+      href: "https://www.facebook.com/mariana.roigecendros",
       icon: (props: any) => (
         <svg fill="currentColor" viewBox="0 0 24 24" {...props}>
           <path
