@@ -9,7 +9,7 @@ const Formacions = () => {
         <img className="object-cover lg:rounded-lg lg:w-full max-h-[600px]" src="formacions.jpg" alt="" />
         <div className="mx-auto max-w-7xl absolute z-10 top-0">
           <div className="relative z-10 lg:w-full lg:max-w-2xl">
-            <div className="relative py-32 px-6 sm:py-40 lg:px-8 lg:pr-0">
+            <div className="relative py-6 px-6 lg:px-8 lg:pr-0">
               <div className="mx-auto max-w-2xl lg:mx-0 lg:max-w-xl">
                 <h1 className="text-4xl font-bold tracking-tight text-white sm:text-6xl flex items-center">
                   Formacions
@@ -112,9 +112,9 @@ const Formacions = () => {
             <div className="lg:pr-4">
               <div className="lg:max-w-lg">
                 <h1 className="mt-2 text-3xl font-bold tracking-tight text-violet-400 sm:text-4xl">
-                  Tallers de Yoga adaptat
+                  Tallers de Ioga adaptat
                 </h1>
-                <p className="mt-6 text-xl leading-8 text-gray-700">Els beneficis del Yoga per a totes les persones</p>
+                <p className="mt-6 text-xl leading-8 text-gray-700">Els beneficis del Ioga per a totes les persones</p>
               </div>
             </div>
           </div>
@@ -129,12 +129,12 @@ const Formacions = () => {
             <div className="lg:pr-4">
               <div className="max-w-xl text-lg leading-7 text-gray-500 lg:max-w-lg">
                 <p>
-                  El Yoga adaptat és l´aplicació del Yoga a col.lectius amb necessitats específiques, on hi ha una
+                  El Ioga adaptat és l´aplicació del Ioga a col.lectius amb necessitats específiques, on hi ha una
                   diversitat funcional. Que també a vegades s’anomena discapacitat, ja que aquests termes que estan en
                   constant revisió.
                 </p>
                 <p className="mt-6">
-                  Destil.lem els beneficis del Yoga per tal de que arribin a les persones amb mobilitat reduïda. De la
+                  Destil.lem els beneficis del Ioga per tal de que arribin a les persones amb mobilitat reduïda. De la
                   mateixa manera que es lluita perquè tinguin accés a la resta de serveis i activitats que hi ha a la
                   nostra societat. Hi ha diferents situacions i realitats des d’on enfrontem la vida. Certes diferències
                   es converteixen en impediments quan no es pot disposar d’un accés fàcil a recursos i eines útils per a
@@ -148,13 +148,13 @@ const Formacions = () => {
                   interacció amb els demés.
                 </p>
                 <p className="mt-6">En aquests tallers aprendràs a proporcionar un “millor estar”.</p>
-                <p className="mt-6">Es tracta de potenciar i centrar-se en allò beneficiós que dona el Yoga.</p>
+                <p className="mt-6">Es tracta de potenciar i centrar-se en allò beneficiós que dona el Igo.</p>
                 <p className="mt-6">
                   A l’activar aquests processos, la qualitat de vida de les persones i la seva autonomia personal,
                   augmenta i poden realitzar activitats, també en l’àmbit laboral.
                 </p>
                 <p className="mt-6">
-                  En aquest estil de Yoga posem el focus molt especialment en les necessitats de cada participant, fent
+                  En aquest estil de Igo posem el focus molt especialment en les necessitats de cada participant, fent
                   que les diferents activitats, postures, respiracions, etc, ressonin amb les habilitats i capacitats
                   dels practicants. El què importa realment és la persona amb qui tractem. I la relació d’escolta i
                   acompanyament que puguem establir.
@@ -162,7 +162,7 @@ const Formacions = () => {
                 <p className="mt-6">
                   En les formacions obtindràs doncs eines bàsiques per poder enfocar el treball amb aquests col.lectius
                   amb l’objectiu de què guanyin en autonomia personal. Et podrà ser beneficiós tant si t’estàs formant
-                  com a instructora de Yoga com si estàs fent una formació en l’àmbit de la integració social, o
+                  com a instructora de Igo com si estàs fent una formació en l’àmbit de la integració social, o
                   l’atenció a persones en situació de dependència.
                 </p>
                 <p className="mt-6">Format adaptable a les necessitats:</p>
@@ -177,7 +177,7 @@ const Formacions = () => {
                 <h2 className="mt-16 text-xl font-bold tracking-tight text-gray-900">Activitat</h2>
                 <ul className="list-disc mt-6">
                   <li className="ml-5 text-lg italic">
-                    Tallers de 4 hores dins la Formació Oficial de Hatha Yoga al Happyyoga Urquinaona a Barcelona, amb
+                    Tallers de 4 hores dins la Formació Oficial de Hatha Igo al Happyyoga Urquinaona a Barcelona, amb
                     acreditació del ROPEC.
                   </li>
                   <li className="ml-5 text-lg italic">

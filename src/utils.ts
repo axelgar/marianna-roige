@@ -1,6 +1,6 @@
 export const navigation = [
   { name: "Qui sóc", href: "/qui-soc" },
-  { name: "Yoga Kundalini", href: "#" },
+  { name: "Ioga Kundalini", href: "#" },
   { name: "Formacions", href: "formacions" },
   { name: "Formació per escoles", href: "#" },
   { name: "Viatges", href: "#" },
