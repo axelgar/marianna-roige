@@ -11,7 +11,7 @@ export const HomeHeader = () => {
       <nav className="flex items-center justify-between sm:h-10 lg:justify-start" aria-label="Global">
         <a href="#" className="-m-1.5 p-1.5">
           <span className="sr-only">Marianna Roige</span>
-          <img alt="Marianna Roige" className="h-14 lg:h-20 w-auto" src={"/test-logo.png"} />
+          <img alt="Marianna Roige" className="h-14 lg:h-20 w-auto" src={"/logo.png"} />
         </a>
         <button
           type="button"
@@ -42,7 +42,7 @@ export const HomeHeader = () => {
             </button>
             <a href="#" className="-m-1.5 p-1.5">
               <span className="sr-only">Marianna Roige</span>
-              <img className="h-8" src="/test-logo.png" alt="" />
+              <img className="h-8" src="/logo.png" alt="" />
             </a>
           </div>
           <div className="mt-6 space-y-2">

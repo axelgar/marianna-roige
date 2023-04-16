@@ -6,9 +6,12 @@ export default function Document() {
       <Head>
         <title>Marianna Roigé Ioga</title>
         <link rel="stylesheet" href="https://rsms.me/inter/inter.css" />
-        <meta name="description" content="Formación de Ioga" />
+        <meta
+          name="description"
+          content="Marianna Roigé. Formación de Ioga. Classes de Ioga per a nens i nenes. Ioga adaptat"
+        />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/test-logo.png" />
+        <link rel="icon" href="/logo.png" />
       </Head>
       <body className="min-h-full">
         <Main />

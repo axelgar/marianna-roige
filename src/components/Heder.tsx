@@ -12,8 +12,8 @@ export const Header = () => {
       <nav className="flex items-center justify-between" aria-label="Global">
         <div className="flex lg:flex-1">
           <Link href="/" className="-m-1.5 p-1.5">
-            <span className="sr-only">Your Company</span>
-            <img className="h-16" src="test-logo.png" alt="" />
+            <span className="sr-only">Marianna Roige</span>
+            <img className="h-16" src="logo.png" alt="" />
           </Link>
         </div>
         <div className="flex lg:hidden">
@@ -38,10 +38,10 @@ export const Header = () => {
       <Dialog as="div" open={mobileMenuOpen} onClose={setMobileMenuOpen}>
         <Dialog.Panel className="fixed inset-0 z-10 overflow-y-auto bg-white px-6 py-6 lg:hidden">
           <div className="flex items-center justify-between">
-            <a href="#" className="-m-1.5 p-1.5">
-              <span className="sr-only">Your Company</span>
-              <img className="h-8" src="test-logo.png" alt="" />
-            </a>
+            <Link href="/" className="-m-1.5 p-1.5">
+              <span className="sr-only">Marianna Roige</span>
+              <img className="h-8" src="logo.png" alt="" />
+            </Link>
             <button
               type="button"
               className="-m-2.5 rounded-md p-2.5 text-gray-700"
