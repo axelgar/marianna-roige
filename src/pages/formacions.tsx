@@ -24,11 +24,9 @@ const Formacions = () => {
         <div className="mx-auto grid max-w-2xl grid-cols-1 gap-y-16 gap-x-8 lg:mx-0 lg:max-w-none lg:grid-cols-2 lg:items-start lg:gap-y-10">
           <div className="lg:col-span-2 lg:col-start-1 lg:row-start-1 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-2 lg:gap-x-8 lg:px-8">
             <div className="lg:pr-4">
-              <div className="lg:max-w-lg">
-                <h1 className="mt-2 text-3xl font-bold tracking-tight text-violet-400 sm:text-4xl">
-                  Tallers de relaxació i mindfulness
-                </h1>
-              </div>
+              <h1 className="mt-2 text-3xl font-bold tracking-tight text-violet-400 sm:text-4xl">
+                Tallers de relaxació i mindfulness
+              </h1>
             </div>
           </div>
           <div className="-mt-12 -ml-36 sm:-ml-12 p-12 lg:sticky lg:top-4 lg:col-start-2 lg:row-span-2 lg:row-start-1 lg:overflow-hidden">
@@ -40,27 +38,27 @@ const Formacions = () => {
           </div>
           <div className="lg:col-span-2 lg:col-start-1 lg:row-start-2 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-2 lg:gap-x-8 lg:px-8">
             <div className="lg:pr-4">
-              <div className="max-w-xl text-lg leading-7 text-gray-500 lg:max-w-lg">
+              <div className="max-w-xl text-lg leading-7 text-gray-500 lg:max-w-lg text-justify">
                 <p>
-                  <strong className="font-semibold text-gray-900">Relaxació:</strong> desenvolupar la capacitat de viure
-                  el moment present per potenciar la concentració i viure amb plenitud. Posem l’èmfasi en aconseguir-ho
-                  gràcies a la consciència del nostre cos, la memòria i hàbits que té per tal de donar-li patrons de
-                  calma, de pes, de descàrrega, de respiració, alegria amb el moviment...
+                  <strong className="font-semibold text-gray-900">Relaxació</strong> entesa com la capacitat de viure el
+                  moment present per potenciar la concentració i viure amb plenitud. Posem l’èmfasi en aconseguir-ho
+                  gràcies a la consciència del nostre cos. Observem la memòria corporal i els hàbits que hi ha, i
+                  proporcionem nous patrons de calma, de pes, de descàrrega, de respiració, d&apos;alegria amb el
+                  moviment.
                 </p>
-                <p>Treure tensions, físiques i mentals, alleugerir l&#39;organisme en sí i poder-nos relaxar.</p>
+                <p>Objectius: treure tensions físiques i mentals, alleugerir l&#39;organisme i poder-nos relaxar.</p>
                 <p className="mt-6">
-                  <strong className="font-semibold text-gray-900">Mindfulness o meditació:</strong> respirar
+                  <strong className="font-semibold text-gray-900">Mindfulness o meditació</strong> enfocada en respirar
                   conscientment, transitar la calma, la concentració, reduir l’estrès quotidià, connectar amb el cor, la
                   intuïció i la creativitat.
-                </p>
-                <p className="mt-6">
+                  <br />
                   Meditar és una oportunitat per a crear quietud dins teu sense reaccionar al flux continu de la teva
                   ment: “No som els nostres pensaments, no som les nostres emocions”. D’una manera agradable aprenem a
                   processar sentiments i pensaments sense reaccionar, podent triar amb tranquil·litat les respostes.
-                  Prenent distància...
+                  Prenent distància.
                 </p>
                 <p>
-                  Això t’ajuda a rejovenir i relaxar -te, a gestionar millor l&#39;estrès i establir un millor contacte
+                  Això t’ajuda a rejovenir i relaxar-te, a gestionar millor l&#39;estrès i establir un millor contacte
                   amb les teves relacions, amb els que t’envolten.
                 </p>
                 <h2 className="mt-16 text-2xl font-bold tracking-tight text-gray-900">A qui va dirigit?</h2>
@@ -95,6 +93,7 @@ const Formacions = () => {
                   </li>
                   <li className="ml-5 text-lg italic">Escola Sant Feliu a Cabrera de Mar</li>
                   <li className="ml-5 text-lg italic">Hamelin-Laie International School</li>
+                  <li className="ml-5 text-lg italic">Institut Poeta Maragall. Barcelona</li>
                   <li className="ml-5 text-lg italic">Servei Educatiu Ciutat Vella. Benestar docent</li>
                   <li className="ml-5 text-lg italic">
                     Jornades per Educadxrs de Relaxació i Meditació, editorial Barcanova
@@ -108,14 +107,12 @@ const Formacions = () => {
       {/* Tallers de Ioga adaptat */}
       <div className="relative isolate overflow-hidden bg-white px-6 py-24 sm:py-32 lg:overflow-visible lg:px-0">
         <div className="mx-auto grid max-w-2xl grid-cols-1 gap-y-16 gap-x-8 lg:mx-0 lg:max-w-none lg:grid-cols-2 lg:items-start lg:gap-y-10">
-          <div className="lg:col-span-3 lg:col-start-2 lg:row-start-1 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-2 lg:gap-x-8 lg:px-8">
+          <div className="lg:col-span-3 lg:col-start-2 lg:row-start-1 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-1 lg:gap-x-8 lg:px-8">
             <div className="lg:pr-4">
-              <div className="lg:max-w-lg">
-                <h1 className="mt-2 text-3xl font-bold tracking-tight text-violet-400 sm:text-4xl">
-                  Tallers de Ioga adaptat
-                </h1>
-                <p className="mt-6 text-xl leading-8 text-gray-700">Els beneficis del Ioga per a totes les persones</p>
-              </div>
+              <h1 className="mt-2 text-3xl font-bold tracking-tight text-violet-400 sm:text-4xl">
+                Tallers de Ioga adaptat
+              </h1>
+              <p className="mt-6 text-xl leading-8 text-gray-700">Els beneficis del Ioga per a totes les persones</p>
             </div>
           </div>
           <div className="-mt-12 -ml-52 sm:-ml-96 lg:-ml-52 p-12 lg:sticky lg:top-4 lg:col-start-1 lg:row-span-2 lg:row-start-1 lg:overflow-hidden">
@@ -127,7 +124,7 @@ const Formacions = () => {
           </div>
           <div className="lg:col-span-3 lg:col-start-2 lg:row-start-2 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-1 lg:gap-x-8 lg:px-8">
             <div className="lg:pr-4">
-              <div className="max-w-xl text-lg leading-7 text-gray-500 lg:max-w-lg">
+              <div className="max-w-xl text-lg leading-7 text-gray-500 lg:max-w-lg text-justify">
                 <p>
                   El Ioga adaptat és l´aplicació del Ioga a col.lectius amb necessitats específiques, on hi ha una
                   diversitat funcional. Que també a vegades s’anomena discapacitat, ja que aquests termes que estan en
@@ -142,19 +139,20 @@ const Formacions = () => {
                 </p>
                 <p className="mt-6">
                   L’objectiu a assolir amb aquesta pràctica no és el d’arribar a aconseguir postures perfectes. I sí que
-                  ho és afavorir la consciència corporal i per tant gaudir de més rang de moviments, equilibrar el seu
-                  to muscular, millorar la respiració, ajudar a millorar l’autoestima, aprendre a tolerar les
+                  ho és afavorir la consciència corporal i per tant gaudir d&apos;un major rang de moviments, equilibrar
+                  el seu to muscular, millorar la respiració, ajudar a millorar l’autoestima, aprendre a tolerar les
                   frustracions generades per les limitacions físiques o psíquiques i contribuir també a una millor
                   interacció amb els demés.
                 </p>
-                <p className="mt-6">En aquests tallers aprendràs a proporcionar un “millor estar”.</p>
-                <p className="mt-6">Es tracta de potenciar i centrar-se en allò beneficiós que dona el Igo.</p>
                 <p className="mt-6">
-                  A l’activar aquests processos, la qualitat de vida de les persones i la seva autonomia personal,
+                  En aquests tallers aprendràs a proporcionar un “millor estar”.
+                  <br />
+                  Es tracta de potenciar i centrar-se en allò beneficiós que dona el Ioga.
+                  <br />A l’activar aquests processos, la qualitat de vida de les persones i la seva autonomia personal,
                   augmenta i poden realitzar activitats, també en l’àmbit laboral.
                 </p>
                 <p className="mt-6">
-                  En aquest estil de Igo posem el focus molt especialment en les necessitats de cada participant, fent
+                  En aquest estil de Ioga posem el focus molt especialment en les necessitats de cada participant, fent
                   que les diferents activitats, postures, respiracions, etc, ressonin amb les habilitats i capacitats
                   dels practicants. El què importa realment és la persona amb qui tractem. I la relació d’escolta i
                   acompanyament que puguem establir.
@@ -162,7 +160,7 @@ const Formacions = () => {
                 <p className="mt-6">
                   En les formacions obtindràs doncs eines bàsiques per poder enfocar el treball amb aquests col.lectius
                   amb l’objectiu de què guanyin en autonomia personal. Et podrà ser beneficiós tant si t’estàs formant
-                  com a instructora de Igo com si estàs fent una formació en l’àmbit de la integració social, o
+                  com a instructora de Ioga com si estàs fent una formació en l’àmbit de la integració social, o
                   l’atenció a persones en situació de dependència.
                 </p>
                 <p className="mt-6">Format adaptable a les necessitats:</p>
@@ -177,7 +175,7 @@ const Formacions = () => {
                 <h2 className="mt-16 text-xl font-bold tracking-tight text-gray-900">Activitat</h2>
                 <ul className="list-disc mt-6">
                   <li className="ml-5 text-lg italic">
-                    Tallers de 4 hores dins la Formació Oficial de Hatha Igo al Happyyoga Urquinaona a Barcelona, amb
+                    Tallers de 4 hores dins la Formació Oficial de Hatha Ioga al Happyyoga Urquinaona a Barcelona, amb
                     acreditació del ROPEC.
                   </li>
                   <li className="ml-5 text-lg italic">

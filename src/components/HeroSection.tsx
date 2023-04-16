@@ -17,7 +17,9 @@ export default function HeroSection() {
               <div className="mx-auto max-w-2xl lg:mx-0 lg:max-w-xl">
                 <p className="text-2xl text-white ">Marianna Roigé</p>
                 <h1 className="text-4xl font-bold tracking-tight text-white sm:text-8xl flex items-center">CALMA</h1>
-                <p className="text-sm lg:text-xl leading-8 text-white">Ioga&amp;Meditació / Mindfulness / Educació</p>
+                <p className="text-sm lg:text-xl leading-8 text-white" style={{ wordSpacing: 10 }}>
+                  Ioga&amp;Meditació / Mindfulness / Educació
+                </p>
               </div>
             </div>
           </div>
