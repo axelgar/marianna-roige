@@ -16,9 +16,9 @@ const QuiSoc = () => {
               </h1>
             </div>
           </div>
-          <div className="-mt-12 lg:-mr-0 p-12 lg:sticky lg:top-4 lg:col-start-1 lg:row-span-2 lg:row-start-1 lg:overflow-hidden">
+          <div className="md:-ml-24 lg:-mr-0 xl:ml-12 lg:sticky lg:top-4 lg:col-start-1 lg:row-span-2 lg:row-start-1 lg:overflow-hidden rounded-xl ">
             <img
-              className="w-full object-cover lg:object-[-90px] max-h-72 lg:max-h-none max-w-none bg-gray-900 shadow-xl ring-1 ring-gray-400/10 lg:w-[57rem]"
+              className="w-full object-cover max-h-96 lg:max-h-none max-w-none bg-gray-900 shadow-xl ring-1 ring-gray-400/10 lg:w-[57rem]"
               src="/qui-soc.jpg"
               alt=""
             />
@@ -61,8 +61,9 @@ const QuiSoc = () => {
                   també professora de Ioga: Taller de Ioga para niños. Alba editorial, 2018. I que ara mateix ja va per
                   la 3a edició!.
                 </p>
+                <p>Per una altra banda, dono classes regulars i formacions de Ioga per adults.</p>
                 <p>
-                  Per una altra banda, i sense deixar de la mà la riquesa dels ensenyaments del Ioga, em formo també en
+                  Per una altra banda, i sense deixar de la mà la riquesa dels ensenyaments del Ioga, m’he format en
                   Mindfulness a la Universitat de Barcelona.
                   <br />
                   Sempre m’acompanya la idea d’entendre la vida com una integració d’aprenentatges i aprofundiments.

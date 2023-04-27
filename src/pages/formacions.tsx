@@ -1,12 +1,16 @@
 import Footer from "@/components/Footer";
 import { Header } from "@/components/Heder";
+import Head from "next/head";
 
 const Formacions = () => {
   return (
     <>
+      <Head>
+        <title>Formacions de Ioga i mindfulness</title>
+      </Head>
       <Header />
       <div className="bg-gray-50 lg:max-w-7xl lg:mx-auto mt-16 overflow-hidden relative">
-        <img className="object-cover lg:rounded-lg lg:w-full max-h-[600px]" src="formacions.jpg" alt="" />
+        <img className="object-cover lg:rounded-lg lg:w-full max-h-[600px]" src="/formacions.jpg" alt="" />
         <div className="mx-auto max-w-7xl absolute z-10 top-0">
           <div className="relative z-10 lg:w-full lg:max-w-2xl">
             <div className="relative py-6 px-6 lg:px-8 lg:pr-0">
@@ -23,13 +27,13 @@ const Formacions = () => {
       <div className="relative isolate overflow-hidden bg-white px-6 py-24 sm:py-32 lg:overflow-visible lg:px-0">
         <div className="mx-auto grid max-w-2xl grid-cols-1 gap-y-16 gap-x-8 lg:mx-0 lg:max-w-none lg:grid-cols-2 lg:items-start lg:gap-y-10">
           <div className="lg:col-span-2 lg:col-start-1 lg:row-start-1 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-2 lg:gap-x-8 lg:px-8">
-            <div className="lg:pr-4">
+            <div className="lg:pr-4 lg:max-w-lg">
               <h1 className="mt-2 text-3xl font-bold tracking-tight text-violet-400 sm:text-4xl">
                 Tallers de relaxació i mindfulness
               </h1>
             </div>
           </div>
-          <div className="-mt-12 -ml-36 sm:-ml-12 p-12 lg:sticky lg:top-4 lg:col-start-2 lg:row-span-2 lg:row-start-1 lg:overflow-hidden">
+          <div className="-ml-12 -mt-12 p-12 lg:sticky lg:top-4 lg:col-start-2 lg:row-span-2 lg:row-start-1 lg:overflow-hidden">
             <img
               className="w-[48rem] max-w-none rounded-xl bg-gray-900 shadow-xl ring-1 ring-gray-400/10 sm:w-[57rem]"
               src="/relaxacio-mindfulness.jpg"
@@ -115,10 +119,10 @@ const Formacions = () => {
               <p className="mt-6 text-xl leading-8 text-gray-700">Els beneficis del Ioga per a totes les persones</p>
             </div>
           </div>
-          <div className="-mt-12 -ml-52 sm:-ml-96 lg:-ml-52 p-12 lg:sticky lg:top-4 lg:col-start-1 lg:row-span-2 lg:row-start-1 lg:overflow-hidden">
+          <div className="-ml-60 sm:-ml-80 lg:-ml-12 lg:sticky lg:top-4 lg:col-start-1 lg:row-span-2 lg:row-start-1 lg:overflow-hidden rounded-xl">
             <img
-              className="w-[48rem] max-w-none rounded-xl bg-gray-900 shadow-xl ring-1 ring-gray-400/10 sm:w-[57rem]"
-              src="/ioga-adaptat.jpg"
+              className="max-w-none  bg-gray-900 shadow-xl ring-1 rounded-xl ring-gray-400/10 sm:w-[57rem]"
+              src="/ioga-adaptat-1.jpg"
               alt=""
             />
           </div>

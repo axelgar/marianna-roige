@@ -1,10 +1,10 @@
+import { Whatsapp } from "@/components/Whatsapp";
 import { Html, Head, Main, NextScript } from "next/document";
 
 export default function Document() {
   return (
     <Html lang="es">
       <Head>
-        <title>Marianna Roigé Ioga</title>
         <link rel="stylesheet" href="https://rsms.me/inter/inter.css" />
         <meta
           name="description"
@@ -13,9 +13,10 @@ export default function Document() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/logo.png" />
       </Head>
-      <body className="min-h-full">
+      <body className="min-h-full relative">
         <Main />
         <NextScript />
+        <Whatsapp />
       </body>
     </Html>
   );
