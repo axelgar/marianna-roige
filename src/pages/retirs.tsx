@@ -30,7 +30,7 @@ const Formacions = () => {
           >
             <li>
               <img
-                className="aspect-[3/2] w-full rounded-2xl object-cover hover:scale-150 hover:shadow-2xl transition-all duration-700 hover:relative hover:z-10"
+                className="aspect-[3/2] w-full rounded-2xl object-cover lg:hover:scale-150 hover:shadow-2xl transition-all duration-700 hover:relative hover:z-10"
                 src="/retir-1.jpg"
                 alt="Retir marroc"
               />
@@ -39,7 +39,7 @@ const Formacions = () => {
             </li>
             <li>
               <img
-                className="aspect-[3/2] w-full rounded-2xl object-cover hover:scale-150 hover:shadow-2xl hover:relative hover:z-10 transition-all duration-700"
+                className="aspect-[3/2] w-full rounded-2xl object-cover lg:hover:scale-150 hover:shadow-2xl hover:relative hover:z-10 transition-all duration-700"
                 src="/retir-2.jpg"
                 alt="Retir marroc"
               />
@@ -48,7 +48,7 @@ const Formacions = () => {
             </li>
             <li>
               <img
-                className="aspect-[3/2] w-full rounded-2xl object-cover hover:scale-150 hover:shadow-2xl transition-all duration-700 hover:relative hover:z-10 "
+                className="aspect-[3/2] w-full rounded-2xl object-cover lg:hover:scale-150 hover:shadow-2xl transition-all duration-700 hover:relative hover:z-10 "
                 src="/retir-3.jpg"
                 alt="Retir marroc"
               />
