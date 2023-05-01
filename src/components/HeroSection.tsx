@@ -25,7 +25,10 @@ export default function HeroSection() {
           </div>
         </div>
         <div className="mx-auto max-w-7xl absolute z-10 bottom-0 p-6">
-          <h1 className="text-sm lg:text-xl font-bold tracking-tight text-violet-200 sm:text-8xl flex items-center">
+          <h1
+            style={{ fontFamily: "Kalam" }}
+            className="text-sm lg:text-xl font-bold tracking-tight text-violet-200 sm:text-8xl flex items-center"
+          >
             UN ALTRE MÓN ÉS POSSIBLE
           </h1>
         </div>
