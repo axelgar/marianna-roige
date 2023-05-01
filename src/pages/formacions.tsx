@@ -10,7 +10,11 @@ const Formacions = () => {
       </Head>
       <Header />
       <div className="bg-gray-50 lg:max-w-7xl lg:mx-auto mt-16 overflow-hidden relative">
-        <img className="object-cover lg:rounded-lg lg:w-full max-h-[600px]" src="/formacions.jpg" alt="" />
+        <img
+          className="object-cover lg:rounded-lg lg:w-full max-h-[600px]"
+          src="/formacions.jpg"
+          alt="Formacions de Ioga i mindfulness"
+        />
         <div className="mx-auto max-w-7xl absolute z-10 top-0">
           <div className="relative z-10 lg:w-full lg:max-w-2xl">
             <div className="relative py-6 px-6 lg:px-8 lg:pr-0">
@@ -28,9 +32,9 @@ const Formacions = () => {
         <div className="mx-auto grid max-w-2xl grid-cols-1 gap-y-16 gap-x-8 lg:mx-0 lg:max-w-none lg:grid-cols-2 lg:items-start lg:gap-y-10">
           <div className="lg:col-span-2 lg:col-start-1 lg:row-start-1 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-2 lg:gap-x-8 lg:px-8">
             <div className="lg:pr-4 lg:max-w-lg">
-              <h1 className="mt-2 text-3xl font-bold tracking-tight text-violet-400 sm:text-4xl">
+              <h2 className="mt-2 text-3xl font-bold tracking-tight text-violet-400 sm:text-4xl">
                 Tallers de relaxació i mindfulness
-              </h1>
+              </h2>
             </div>
           </div>
           <div className="-ml-12 -mt-12 p-12 lg:sticky lg:top-4 lg:col-start-2 lg:row-span-2 lg:row-start-1 lg:overflow-hidden">
@@ -113,9 +117,9 @@ const Formacions = () => {
         <div className="mx-auto grid max-w-2xl grid-cols-1 gap-y-16 gap-x-8 lg:mx-0 lg:max-w-none lg:grid-cols-2 lg:items-start lg:gap-y-10">
           <div className="lg:col-span-3 lg:col-start-2 lg:row-start-1 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-1 lg:gap-x-8 lg:px-8">
             <div className="lg:pr-4">
-              <h1 className="mt-2 text-3xl font-bold tracking-tight text-violet-400 sm:text-4xl">
+              <h2 className="mt-2 text-3xl font-bold tracking-tight text-violet-400 sm:text-4xl">
                 Tallers de Ioga adaptat
-              </h1>
+              </h2>
               <p className="mt-6 text-xl leading-8 text-gray-700">Els beneficis del Ioga per a totes les persones</p>
             </div>
           </div>

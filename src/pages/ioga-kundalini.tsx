@@ -28,7 +28,7 @@ const Formacions = () => {
         <div className="mx-auto grid max-w-2xl grid-cols-1 gap-y-16 gap-x-8 lg:mx-0 lg:max-w-none lg:grid-cols-2 lg:items-start lg:gap-y-10">
           <div className="lg:col-span-2 lg:col-start-1 lg:row-start-1 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-2 lg:gap-x-8 lg:px-8">
             <div className="lg:pr-4 lg:max-w-lg">
-              <h1 className="mt-2 text-3xl font-bold tracking-tight text-violet-400 sm:text-4xl">Classes regulars</h1>
+              <h2 className="mt-2 text-3xl font-bold tracking-tight text-violet-400 sm:text-4xl">Classes regulars</h2>
             </div>
           </div>
           <div className="-ml-12 -mt-12 p-12 lg:sticky lg:top-4 lg:col-start-2 lg:row-span-2 lg:row-start-1 lg:overflow-hidden">
@@ -128,9 +128,9 @@ const Formacions = () => {
         <div className="mx-auto grid max-w-2xl grid-cols-1 gap-y-16 gap-x-8 lg:mx-0 lg:max-w-none lg:grid-cols-2 lg:items-start lg:gap-y-10">
           <div className="lg:col-span-1 lg:col-start-2 lg:row-start-1 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-1 lg:gap-x-8 lg:px-8">
             <div className="lg:pr-4 lg:max-w-lg">
-              <h1 className="mt-2 text-3xl font-bold tracking-tight text-violet-400 sm:text-4xl ">
+              <h2 className="mt-2 text-3xl font-bold tracking-tight text-violet-400 sm:text-4xl ">
                 Classes individuals
-              </h1>
+              </h2>
               <blockquote className="mt-6 text-xl leading-8 text-gray-700">
                 “La paraula Ioga significa “unió”, en un doble sentit, unió amb un mateix i amb el món que ens envolta.
                 El Ioga és un camí d’experiència corporal i personal”. Y.B.
