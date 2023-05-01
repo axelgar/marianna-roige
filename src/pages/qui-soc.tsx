@@ -16,11 +16,11 @@ const QuiSoc = () => {
               </h1>
             </div>
           </div>
-          <div className="md:-ml-24 lg:-mr-0 xl:ml-12 lg:sticky lg:top-4 lg:col-start-1 lg:row-span-2 lg:row-start-1 lg:overflow-hidden rounded-xl ">
+          <div className="md:-ml-24 lg:-mr-0 xl:ml-12 lg:sticky lg:top-4 lg:col-start-1 lg:row-span-2 lg:row-start-1 lg:overflow-hidden rounded-xl">
             <img
-              className="sm:-ml-32 md:-ml-40 w-full object-cover max-h-96 lg:max-h-none max-w-none bg-gray-900 shadow-xl ring-1 ring-gray-400/10 lg:w-[57rem]"
+              className="sm:-ml-32 md:-ml-40 w-full rounded-xl object-cover max-h-96 lg:max-h-none max-w-none bg-gray-900 shadow-xl ring-1 ring-gray-400/10 lg:w-[57rem]"
               src="/qui-soc.jpg"
-              alt=""
+              alt="Marianna Roige"
             />
           </div>
           <div className="lg:col-span-3 lg:col-start-2 lg:row-start-2 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-1 lg:gap-x-8 lg:px-8">

@@ -10,7 +10,7 @@ export default function HeroSection() {
       </div>
 
       <div className="bg-gray-50 lg:max-w-7xl lg:mx-auto mt-16 overflow-hidden relative ">
-        <img className="object-cover lg:rounded-lg lg:w-full max-h-[800px]" src="calma-ma-3.jpg" alt="" />
+        <img className="object-cover lg:rounded-lg lg:w-full max-h-[800px]" src="calma-ma.jpg" alt="" />
         <div className="mx-auto max-w-7xl absolute z-10 top-0">
           <div className="relative z-10 lg:w-full lg:max-w-2xl">
             <div className="relative p-6 lg:px-8 lg:pr-0">
@@ -27,9 +27,9 @@ export default function HeroSection() {
         <div className="mx-auto max-w-7xl absolute z-10 bottom-0 p-6">
           <h1
             style={{ fontFamily: "Kalam" }}
-            className="text-sm lg:text-xl font-bold tracking-tight text-violet-200 sm:text-8xl flex items-center"
+            className="text-sm md:text-xl font-bold tracking-tight text-violet-200 flex items-center"
           >
-            UN ALTRE MÓN ÉS POSSIBLE
+            Un altre món és possible
           </h1>
         </div>
       </div>
