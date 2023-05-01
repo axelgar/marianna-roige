@@ -10,12 +10,12 @@ const Formacions = () => {
       </Head>
       <Header />
       <div className="bg-gray-50 lg:max-w-7xl lg:mx-auto mt-16 overflow-hidden relative">
-        <img className="object-cover lg:rounded-lg lg:w-full max-h-[600px]" src="/retirs.jpg" alt="" />
+        <img className="object-cover lg:rounded-lg lg:w-full max-h-[600px]" src="/novetats.jpg" alt="" />
         <div className="mx-auto max-w-7xl absolute z-10 top-0">
           <div className="relative z-10 lg:w-full lg:max-w-2xl">
             <div className="relative py-6 px-6 lg:px-8 lg:pr-0">
               <div className="mx-auto max-w-2xl lg:mx-0 lg:max-w-xl">
-                <h1 className="text-4xl font-bold tracking-tight text-white sm:text-6xl flex items-center">Retirs</h1>
+                <h1 className="text-4xl font-bold tracking-tight text-white sm:text-6xl flex items-center">Novetats</h1>
               </div>
             </div>
           </div>
@@ -29,30 +29,23 @@ const Formacions = () => {
           >
             <li>
               <img
-                className="aspect-[3/2] w-full rounded-2xl object-cover lg:hover:scale-150 hover:shadow-2xl transition-all duration-700 hover:relative hover:z-10"
-                src="/retir-1.jpg"
-                alt="Retir marroc"
+                className="aspect-[3/2] w-full rounded-2xl object-cover"
+                src="/formacions-escola-barcanova.jpg"
+                alt="La calma ens visita. Trobada amb docents. Editorial Barcanova. Barcelona"
               />
               {/* <h3 className="mt-6 text-lg font-semibold leading-8 tracking-tight text-gray-900">Marroc</h3> */}
-              {/* <p className="text-base leading-7 text-gray-600">{person.role}</p> */}
+              <p className="text-base leading-7 text-gray-600">
+                La calma ens visita. Trobada amb docents. Editorial Barcanova. Barcelona
+              </p>
             </li>
             <li>
               <img
-                className="aspect-[3/2] w-full rounded-2xl object-cover lg:hover:scale-150 hover:shadow-2xl hover:relative hover:z-10 transition-all duration-700"
-                src="/retir-2.jpg"
-                alt="Retir marroc"
+                className="aspect-[3/2] w-full rounded-2xl object-cover"
+                src="/formacions-escola-oriol-martorell.jpg"
+                alt="Escola Oriol Martorell. Barcelona"
               />
               {/* <h3 className="mt-6 text-lg font-semibold leading-8 tracking-tight text-gray-900">Marroc</h3> */}
-              {/* <p className="text-base leading-7 text-gray-600">{person.role}</p> */}
-            </li>
-            <li>
-              <img
-                className="aspect-[3/2] w-full rounded-2xl object-cover lg:hover:scale-150 hover:shadow-2xl transition-all duration-700 hover:relative hover:z-10 "
-                src="/retir-3.jpg"
-                alt="Retir marroc"
-              />
-              {/* <h3 className="mt-6 text-lg font-semibold leading-8 tracking-tight text-gray-900">Marroc</h3> */}
-              {/* <p className="text-base leading-7 text-gray-600">{person.role}</p> */}
+              <p className="text-base leading-7 text-gray-600">Escola Oriol Martorell. Barcelona</p>
             </li>
           </ul>
         </div>

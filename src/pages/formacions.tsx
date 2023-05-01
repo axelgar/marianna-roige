@@ -149,7 +149,9 @@ const Formacions = () => {
                   interacció amb els demés.
                 </p>
                 <p className="mt-6">
-                  En aquests tallers aprendràs a proporcionar un “millor estar”.
+                  <strong className="font-semibold text-gray-900">
+                    En aquests tallers aprendràs a proporcionar un “millor estar” als usuaris i usuàries.
+                  </strong>
                   <br />
                   Es tracta de potenciar i centrar-se en allò beneficiós que dona el Ioga.
                   <br />A l’activar aquests processos, la qualitat de vida de les persones i la seva autonomia personal,

@@ -156,8 +156,8 @@ const Formacions = () => {
                   respectar el teu procés i nivell.
                 </p>
                 <p className="mt-6">
-                  Aprenem a respirar, quelcom tant bàsic i que ens proporciona una millora de la salut, a l’augmentar la
-                  nostra energia d’una manera natural.
+                  Aprenem a <strong className="font-semibold text-gray-900">respirar</strong>, quelcom tant bàsic i que
+                  ens proporciona una millora de la salut, a l’augmentar la nostra energia d’una manera natural.
                 </p>
                 <p className="mt-6">
                   I, gràcies a l’exercici amb les diferents postures i mudres (gestos amb les mans), de la consciència
@@ -168,8 +168,8 @@ const Formacions = () => {
                   És una activitat per enfocar la setmana i/o les circumstàncies des d’un lloc més plaent, amb una
                   mirada nova, diferent.
                 </p>
-                <p className="mt-6">Horaris a convenir</p>
-                <p>Truca’m per a qualsevol dubte</p>
+                <p className="mt-6">Horaris a convenir.</p>
+                <p>Truca’m per a qualsevol dubte.</p>
               </div>
             </div>
           </div>

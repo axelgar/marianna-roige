@@ -1,5 +1,5 @@
 export const Whatsapp = () => (
-  <div className="sticky bottom-0 flex p-10 justify-end">
+  <div className="sticky bottom-0 flex pb-10 px-10 justify-end">
     <a href="https://wa.me/+34660971628">
       <svg
         fill="#A78BFA"
