@@ -12,7 +12,7 @@ const Formacions = () => {
       <div className="bg-gray-50 lg:max-w-7xl lg:mx-auto mt-16 overflow-hidden relative">
         <img
           className="object-cover lg:rounded-lg lg:w-full max-h-[600px]"
-          src="/formacions.jpg"
+          src="/formacions.webp"
           alt="Formacions de Ioga i mindfulness"
         />
         <div className="mx-auto max-w-7xl absolute z-10 top-0">
@@ -40,7 +40,7 @@ const Formacions = () => {
           <div className="-ml-12 -mt-12 p-12 lg:sticky lg:top-4 lg:col-start-2 lg:row-span-2 lg:row-start-1 lg:overflow-hidden">
             <img
               className="w-[48rem] max-w-none rounded-xl bg-gray-900 shadow-xl ring-1 ring-gray-400/10 sm:w-[57rem]"
-              src="/relaxacio-mindfulness.jpg"
+              src="/relaxacio-mindfulness.webp"
               alt=""
             />
           </div>

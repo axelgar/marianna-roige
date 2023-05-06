@@ -12,7 +12,7 @@ const Formacions = () => {
       <div className="bg-gray-50 lg:max-w-7xl lg:mx-auto mt-16 overflow-hidden relative">
         <img
           className="object-cover lg:rounded-lg lg:w-full max-h-[600px]"
-          src="/formacions-escola.jpg"
+          src="/formacions-escola.webp"
           alt="Formació per escoles"
         />
         <div className="mx-auto max-w-7xl absolute z-10 top-0">

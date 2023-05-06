@@ -10,7 +10,11 @@ export default function HeroSection() {
       </div>
 
       <div className="bg-gray-50 lg:max-w-7xl lg:mx-auto mt-16 overflow-hidden relative ">
-        <img className="object-cover lg:rounded-lg lg:w-full max-h-[800px]" src="calma-ma.jpg" alt="" />
+        <img
+          className="object-cover lg:rounded-lg lg:w-full max-h-[800px]"
+          src="https://storage.googleapis.com/mariannaroige-images/calma-ma.webp"
+          alt="má meditant"
+        />
         <div className="mx-auto max-w-7xl absolute z-10 top-0">
           <div className="relative z-10 lg:w-full lg:max-w-2xl">
             <div className="relative p-6 lg:px-8 lg:pr-0">

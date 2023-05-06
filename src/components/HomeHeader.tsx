@@ -2,6 +2,7 @@ import { useState } from "react";
 import { Dialog } from "@headlessui/react";
 import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/outline";
 import { navigation } from "@/utils";
+import Link from "next/link";
 
 export const HomeHeader = () => {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
@@ -23,9 +24,9 @@ export const HomeHeader = () => {
         </button>
         <div className="hidden lg:ml-12 lg:block lg:space-x-14">
           {navigation.map((item) => (
-            <a key={item.name} href={item.href} className="text-base font-semibold leading-6 text-gray-500">
+            <Link key={item.name} href={item.href} className="text-base font-semibold leading-6 text-gray-500">
               {item.name}
-            </a>
+            </Link>
           ))}
         </div>
       </nav>
@@ -47,14 +48,14 @@ export const HomeHeader = () => {
           </div>
           <div className="mt-6 space-y-2">
             {navigation.map((item) => (
-              <a
+              <Link
                 onClick={() => setMobileMenuOpen(false)}
                 key={item.name}
                 href={item.href}
                 className="-mx-3 block rounded-lg py-2 px-3 text-base font-semibold leading-7 text-gray-500 hover:bg-gray-400/10"
               >
                 {item.name}
-              </a>
+              </Link>
             ))}
           </div>
         </Dialog.Panel>
