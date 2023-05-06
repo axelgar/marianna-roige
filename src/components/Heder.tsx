@@ -40,7 +40,7 @@ export const Header = () => {
           <div className="flex items-center justify-between">
             <Link href="/" className="-m-1.5 p-1.5">
               <span className="sr-only">Marianna Roige</span>
-              <img className="h-8" src="logo.png" alt="Logo calma Marianna Roige" />
+              <img className="h-8" src="https://cdn.mariannaroige.com/logo.png" alt="Logo calma Marianna Roige" />
             </Link>
             <button
               type="button"

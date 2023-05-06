@@ -43,7 +43,7 @@ export const HomeHeader = () => {
             </button>
             <a href="#" className="-m-1.5 p-1.5">
               <span className="sr-only">Marianna Roige</span>
-              <img className="h-8" src="https://cdn.mariannaroige.com/logo.png" alt="" />
+              <img className="h-8" src="https://cdn.mariannaroige.com/logo.png" alt="Marianna Roige" />
             </a>
           </div>
           <div className="mt-6 space-y-2">
