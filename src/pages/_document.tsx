@@ -11,7 +11,7 @@ export default function Document() {
           content="Marianna Roigé. Formación de Ioga. Classes de Ioga per a nens i nenes. Ioga adaptat"
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/logo.png" />
+        <link rel="icon" href="https://cdn.mariannaroige.com/logo.png" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin={""} />
         <link href="https://fonts.googleapis.com/css2?family=Kalam&display=swap" rel="stylesheet" />

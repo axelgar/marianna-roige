@@ -12,7 +12,7 @@ const Formacions = () => {
       <div className="bg-gray-50 lg:max-w-7xl lg:mx-auto mt-16 overflow-hidden relative">
         <img
           className="object-cover lg:rounded-lg lg:w-full max-h-[600px]"
-          src="/formacions.webp"
+          src="https://cdn.mariannaroige.com/formacions.webp"
           alt="Formacions de Ioga i mindfulness"
         />
         <div className="mx-auto max-w-7xl absolute z-10 top-0">
@@ -40,7 +40,7 @@ const Formacions = () => {
           <div className="-ml-12 -mt-12 p-12 lg:sticky lg:top-4 lg:col-start-2 lg:row-span-2 lg:row-start-1 lg:overflow-hidden">
             <img
               className="w-[48rem] max-w-none rounded-xl bg-gray-900 shadow-xl ring-1 ring-gray-400/10 sm:w-[57rem]"
-              src="/relaxacio-mindfulness.webp"
+              src="https://cdn.mariannaroige.com/relaxacio-mindfulness.webp"
               alt=""
             />
           </div>
@@ -126,8 +126,8 @@ const Formacions = () => {
           <div className="-ml-60 sm:-ml-80 lg:-ml-12 lg:sticky lg:top-4 lg:col-start-1 lg:row-span-2 lg:row-start-1 lg:overflow-hidden rounded-xl">
             <img
               className="max-w-none  bg-gray-900 shadow-xl ring-1 rounded-xl ring-gray-400/10 sm:w-[57rem]"
-              src="/ioga-adaptat-1.jpg"
-              alt=""
+              src="https://cdn.mariannaroige.com/ioga-adaptat.jpg"
+              alt="Persones fent Ioga adaptat"
             />
           </div>
           <div className="lg:col-span-3 lg:col-start-2 lg:row-start-2 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-1 lg:gap-x-8 lg:px-8">

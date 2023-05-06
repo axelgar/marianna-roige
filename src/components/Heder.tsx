@@ -13,7 +13,7 @@ export const Header = () => {
         <div className="flex lg:flex-1">
           <Link href="/" className="-m-1.5 p-1.5">
             <span className="sr-only">Marianna Roige</span>
-            <img className="h-16" src="logo.png" alt="" />
+            <img className="h-16" src="https://cdn.mariannaroige.com/logo.png" alt="" />
           </Link>
         </div>
         <div className="flex lg:hidden">
