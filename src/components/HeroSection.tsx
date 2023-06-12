@@ -12,7 +12,7 @@ export default function HeroSection() {
       <div className="bg-gray-50 lg:max-w-7xl lg:mx-auto mt-16 overflow-hidden relative ">
         <img
           className="object-cover lg:rounded-lg lg:w-full max-h-[800px]"
-          src="https://cdn.mariannaroige.com/calma-ma.webp"
+          src="https://storage.googleapis.com/mariannaroige-images/calma-ma.webp"
           alt="má meditant"
         />
         <div className="mx-auto max-w-7xl absolute z-10 top-0">

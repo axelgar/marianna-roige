@@ -12,7 +12,7 @@ const Formacions = () => {
       <div className="bg-gray-50 lg:max-w-7xl lg:mx-auto mt-16 overflow-hidden relative">
         <img
           className="object-cover lg:rounded-lg lg:w-full max-h-[600px]"
-          src="https://cdn.mariannaroige.com/retirs.jpg"
+          src="https://storage.googleapis.com/mariannaroige-images/retirs.jpg"
           alt="Pedre sobre sorra"
         />
         <div className="mx-auto max-w-7xl absolute z-10 top-0">
@@ -34,7 +34,7 @@ const Formacions = () => {
             <li>
               <img
                 className="aspect-[3/2] w-full rounded-2xl object-cover lg:hover:scale-150 hover:shadow-2xl transition-all duration-700 hover:relative hover:z-10"
-                src="https://cdn.mariannaroige.com/retir-1.jpg"
+                src="https://storage.googleapis.com/mariannaroige-images/retir-1.jpg"
                 alt="Retir marroc"
               />
               {/* <h3 className="mt-6 text-lg font-semibold leading-8 tracking-tight text-gray-900">Marroc</h3> */}
@@ -43,7 +43,7 @@ const Formacions = () => {
             <li>
               <img
                 className="aspect-[3/2] w-full rounded-2xl object-cover lg:hover:scale-150 hover:shadow-2xl hover:relative hover:z-10 transition-all duration-700"
-                src="https://cdn.mariannaroige.com/retir-2.jpg"
+                src="https://storage.googleapis.com/mariannaroige-images/retir-2.jpg"
                 alt="Retir marroc"
               />
               {/* <h3 className="mt-6 text-lg font-semibold leading-8 tracking-tight text-gray-900">Marroc</h3> */}
@@ -52,7 +52,7 @@ const Formacions = () => {
             <li>
               <img
                 className="aspect-[3/2] w-full rounded-2xl object-cover lg:hover:scale-150 hover:shadow-2xl transition-all duration-700 hover:relative hover:z-10 "
-                src="https://cdn.mariannaroige.com/retir-3.jpg"
+                src="https://storage.googleapis.com/mariannaroige-images/retir-3.jpg"
                 alt="Retir marroc"
               />
               {/* <h3 className="mt-6 text-lg font-semibold leading-8 tracking-tight text-gray-900">Marroc</h3> */}

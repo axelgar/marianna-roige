@@ -19,7 +19,7 @@ const QuiSoc = () => {
           <div className="md:-ml-24 lg:-mr-0 xl:ml-12 lg:sticky lg:top-4 lg:col-start-1 lg:row-span-2 lg:row-start-1 lg:overflow-hidden rounded-xl">
             <img
               className="sm:-ml-32 md:-ml-40 w-full rounded-xl object-cover max-h-96 lg:max-h-none max-w-none bg-gray-900 shadow-xl ring-1 ring-gray-400/10 lg:w-[57rem]"
-              src="https://cdn.mariannaroige.com/qui-soc.webp"
+              src="https://storage.googleapis.com/mariannaroige-images/qui-soc.webp"
               alt="Marianna Roige"
             />
           </div>

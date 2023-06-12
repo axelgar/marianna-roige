@@ -12,7 +12,7 @@ const Formacions = () => {
       <div className="bg-gray-50 lg:max-w-7xl lg:mx-auto mt-16 overflow-hidden relative">
         <img
           className="object-cover lg:rounded-lg lg:w-full max-h-[600px]"
-          src="https://cdn.mariannaroige.com/formacions-escola.webp"
+          src="https://storage.googleapis.com/mariannaroige-images/formacions-escola.webp"
           alt="Formació per escoles"
         />
         <div className="mx-auto max-w-7xl absolute z-10 top-0">
@@ -36,84 +36,84 @@ const Formacions = () => {
             <li>
               <img
                 className="aspect-[3/2] w-full rounded-xl object-cover"
-                src="https://cdn.mariannaroige.com/formacio-escoles/formacio-escoles-1.jpg"
+                src="https://storage.googleapis.com/mariannaroige-images/formacio-escoles/formacio-escoles-1.jpg"
                 alt="La calma ens visita. Trobada amb docents. Editorial Barcanova. Barcelona"
               />
             </li>
             <li>
               <img
                 className="aspect-[3/2] w-full rounded-xl object-cover"
-                src="https://cdn.mariannaroige.com/formacio-escoles/formacio-escoles-2.jpg"
+                src="https://storage.googleapis.com/mariannaroige-images/formacio-escoles/formacio-escoles-2.jpg"
                 alt="Escola Oriol Martorell. Barcelona"
               />
             </li>
             <li>
               <img
                 className="aspect-[3/2] w-full rounded-xl object-cover"
-                src="https://cdn.mariannaroige.com/formacio-escoles/formacio-escoles-3.jpg"
+                src="https://storage.googleapis.com/mariannaroige-images/formacio-escoles/formacio-escoles-3.jpg"
                 alt="Escola Oriol Martorell. Barcelona"
               />
             </li>
             <li>
               <img
                 className="aspect-[3/2] w-full rounded-xl object-cover"
-                src="https://cdn.mariannaroige.com/formacio-escoles/formacio-escoles-4.jpg"
+                src="https://storage.googleapis.com/mariannaroige-images/formacio-escoles/formacio-escoles-4.jpg"
                 alt="Escola Oriol Martorell. Barcelona"
               />
             </li>
             <li>
               <img
                 className="aspect-[3/2] w-full rounded-xl object-cover"
-                src="https://cdn.mariannaroige.com/formacio-escoles/formacio-escoles-5.jpg"
+                src="https://storage.googleapis.com/mariannaroige-images/formacio-escoles/formacio-escoles-5.jpg"
                 alt="Escola Oriol Martorell. Barcelona"
               />
             </li>
             <li>
               <img
                 className="aspect-[3/2] w-full rounded-xl object-cover"
-                src="https://cdn.mariannaroige.com/formacio-escoles/formacio-escoles-6.jpg"
+                src="https://storage.googleapis.com/mariannaroige-images/formacio-escoles/formacio-escoles-6.jpg"
                 alt="Escola Oriol Martorell. Barcelona"
               />
             </li>
             <li>
               <img
                 className="aspect-[3/2] w-full rounded-xl object-cover"
-                src="https://cdn.mariannaroige.com/formacio-escoles/formacio-escoles-7.jpg"
+                src="https://storage.googleapis.com/mariannaroige-images/formacio-escoles/formacio-escoles-7.jpg"
                 alt="Escola Oriol Martorell. Barcelona"
               />
             </li>
             <li>
               <img
                 className="aspect-[3/2] w-full rounded-xl object-cover"
-                src="https://cdn.mariannaroige.com/formacio-escoles/formacio-escoles-8.jpg"
+                src="https://storage.googleapis.com/mariannaroige-images/formacio-escoles/formacio-escoles-8.jpg"
                 alt="Escola Oriol Martorell. Barcelona"
               />
             </li>
             <li>
               <img
                 className="aspect-[3/2] w-full rounded-xl object-cover"
-                src="https://cdn.mariannaroige.com/formacio-escoles/formacio-escoles-9.jpg"
+                src="https://storage.googleapis.com/mariannaroige-images/formacio-escoles/formacio-escoles-9.jpg"
                 alt="Escola Oriol Martorell. Barcelona"
               />
             </li>
             <li>
               <img
                 className="aspect-[3/2] w-full rounded-xl object-cover"
-                src="https://cdn.mariannaroige.com/formacio-escoles/formacio-escoles-10.jpg"
+                src="https://storage.googleapis.com/mariannaroige-images/formacio-escoles/formacio-escoles-10.jpg"
                 alt="Escola Oriol Martorell. Barcelona"
               />
             </li>
             <li>
               <img
                 className="aspect-[3/2] w-full rounded-xl object-cover"
-                src="https://cdn.mariannaroige.com/formacio-escoles/formacio-escoles-11.jpg"
+                src="https://storage.googleapis.com/mariannaroige-images/formacio-escoles/formacio-escoles-11.jpg"
                 alt="Escola Oriol Martorell. Barcelona"
               />
             </li>
             <li>
               <img
                 className="aspect-[3/2] w-full rounded-xl object-cover"
-                src="https://cdn.mariannaroige.com/formacio-escoles/formacio-escoles-12.jpg"
+                src="https://storage.googleapis.com/mariannaroige-images/formacio-escoles/formacio-escoles-12.jpg"
                 alt="Escola Oriol Martorell. Barcelona"
               />
             </li>
